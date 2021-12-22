@@ -1,0 +1,33 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+# weight: 1
+# aliases: ["/first"]
+tags: ["post"]
+author: "Me"
+# author: ["Me", "You"] # multiple authors
+showToc: true
+TocOpen: false
+draft: true
+hidemeta: false
+comments: false
+description: "Desc Text."
+<!-- canonicalURL: "https://jeremydwayne.com/{{ dateFormat "2006" now }}/{{ dateFormat "Jan" now }}/{{ .Name }}" -->
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+cover:
+    image: "<image path/url>" # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: "https://github.com/JeremyDwayne/blog/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+---
