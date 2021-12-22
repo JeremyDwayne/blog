@@ -32,7 +32,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 ## I Bought a House before 30!
-The last several years has been a bit rough for me. I had been living with my parents for many years, at first taking care of my grandfather as his primary caregiver, then as I went back to college for Computer Science, and then continued after graduating as I job hunted, did freelance gigs, and got my first "real job" in industry. I didn't have a lot of money, and my income was sporadic at best. My parents welcomed to help, and I didn't mind it. They're approaching the retirement age and any bit I can help them makes their lives much easier.
+The last several years has been a bit rough for me. I had been living with my parents for many years. At first, I was taking care of my grandfather as his primary caregiver, then as I went back to college for Computer Science, and then continued after graduating as I job hunted, did freelance gigs, and got my first "real job" in industry. I didn't have a lot of money, and my income was sporadic at best. My parents welcomed the help around the house, and I didn't mind it. They're approaching the retirement age and any bit I can help them makes their lives much easier.
 
 Now, because they're approaching the retirement age, they decided they wanted to move to Florida. They had been talking about it for a while, but it was always a "maybe in 5 years" plan. In the middle of 2020 and the insanely rough beginnings of the Covid-19 pandemic, they decided to go through with those plans and started designing a house to retire in in Florida.
 
@@ -46,26 +46,26 @@ I'm slowly making upgrades and making everything a smart device or IOT where it 
 
 ## I Bought a Car!
 
-I had been sharing a car with my dad since like 2012. I got better gas mileage, and he drove across the state for work, so it just worked out well for him to use my car, and I use his pickup. But, my car that used to run well, turned into a junker with 200k miles with how much he drove it every day. When my dad took a new job down in Florida, I decided to sell the old car and buy a new one.
+I had been sharing a car with my dad since like 2012. I got better gas mileage, and he drove across the state for work, so it just worked out well for him to use my car, and I use his pickup. But, my car that used to run well, turned into a junker with 200k miles with how much he drove it every day. When my dad took a new job down in Florida, preparing for the eventual move, I decided to sell the old car and buy a new one.
 
 My 2011 Chevy Impala, with 200k miles, sold for over $4k! Thank you Covid-19 used car prices. The dealerships I talked to didn't even want to give me $1k trade-in.
 
 Initially I wanted a Tesla, I was dead set on getting a Model Y. But then I started hearing about corners being cut because of parts shortages, and there was a 3-4 month waiting period for production. So I decided I'd skip Tesla for now, and maybe try again the next time I'm in the market for a car.
 
-I still wanted to be eco-friendly and considered two routes: Hybrid vs Other Brands Electric Vehicles. The Chevy volts of the world for example. After thinking really hard on it, I decided to skip the EV route for now and go for a hybrid. I really want to kit out my house with a Tesla Powerwall, and solarpanels (need to do research on snow and performance in Wisconsin) before I buy an EV. That way I can set up a proper charging station in the garage for the car at the same time. And I just can't afford that now. Maybe in 5-10 years that project will be more feasible. I need to pay off my student loans first!
+I still wanted to be eco-friendly and considered two routes: Hybrid vs Other Brands' Electric Vehicles; the Chevy volts of the world for example. After thinking really hard on it, I decided to skip the EV route for now and go for a hybrid. I really want to kit out my house with a Tesla Powerwall, and solarpanels (need to do research on snow and performance in Wisconsin) before I buy an EV. That way I can set up a proper charging station in the garage for the car at the same time. And I just can't afford that now. Maybe in 5-10 years that project will be more feasible. I need to pay off my student loans first!
 
-I ended up going with a 2021 Toyota Venza. I wanted a Toyota Rav 4 Hybrid, but it would've been 4-6 months to get one. They're super high in demand, and with the parts shortages production was only going to be delayed further. If I didn't take the Venza offered to me, they had a buyer lined up to call right after me. I know that typically would be considered a sales tactic, but in this case I believe them. There were 4 cars I was wanting to TEST DRIVE to see if I liked the car, and they were sold before they even arrived at the dealership. I had to test drive a Venza that belonged to someone who worked at the dealership!
+I ended up going with a 2021 Toyota Venza. I wanted a Toyota Rav 4 Hybrid, but it would've been 4-6 months to get one. They're high in demand, and with the parts shortages production was only going to be delayed further. If I didn't take the Venza offered to me, they had a buyer lined up to call right after me. I know that typically would be considered a sales tactic, but in this case I believe them. There were 4 cars I was wanting to TEST DRIVE to see if I liked the car, and they were sold before they even arrived at the dealership. I had to test drive a Venza that belonged to someone who worked at the dealership!
 
 I've had it since August, and really like it a lot. It has enough smart features that it feels like a luxery car, and it gets great gas mileage at 30-40 mpg if you drive efficiently.
 
 ## I turned 30!
 
-A few weeks after buying the Venza I celebrated my 30th birthday! My mom flew in to visit, and we went to see Shang-Chi at the movie theater. I don't have much else to say here other than I feel old now.
+A few weeks after buying the Venza I celebrated my 30th birthday! My mom flew in to visit, and we went to see Shang-Chi at the movie theater. I don't have much else to say here other than I feel old now but at least I live alone and own a house.
 
 ## I Bought a New BED!!
 Ok, this is the one I'm the MOST excited for because it has direct impact on everything I do (sleep is important yo). I finally replaced my mattress that has a distinct Jeremy shaped dent in it. For those curious, I went with a [Saatva Classic Matress](https://www.saatva.com/mattresses/saatva-classic) in Luxery Firm. It's a bit stiffer than I'm used to, but after a few nights I started getting used to it.
 
-But it gets better than that. I also bought the [Saatva Lineal Adjustable Base](https://www.saatva.com/bases/lineal-adjustable-base) which was 💯 worth it!
+But it gets better than that. I also bought the [Saatva Lineal Adjustable Base](https://www.saatva.com/bases/lineal-adjustable-base), which was 💯% worth it! I can adjust the bed how I want for watching tv and to be in a comfy position for sleeping.
 
 ## I Changed Jobs and Doubled My Income!??
 That's right, this is NOT click bait! I actually doubled my income. And you can too with this easy trick! 
