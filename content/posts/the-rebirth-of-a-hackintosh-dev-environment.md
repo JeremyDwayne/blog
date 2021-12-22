@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment"
+canonicalURL: "https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
