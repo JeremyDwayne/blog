@@ -12,7 +12,7 @@ draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
-<!-- canonicalURL: "https://jeremydwayne.com/{{ dateFormat "2006" now }}/{{ dateFormat "Jan" now }}/{{ .Name }}" -->
+# canonicalURL: "https://jeremydwayne.com/{{ dateFormat "2006" now }}/{{ dateFormat "Jan" now }}/{{ .Name }}"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -27,7 +27,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/content"
+    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
