@@ -12,7 +12,7 @@ draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
-# canonicalURL: "https://jeremydwayne.com/{{ dateFormat "2006" now }}/{{ dateFormat "Jan" now }}/{{ .Name }}"
+canonicalURL: "https://jeremydwayne.com/posts/{{ .Name }}"
 disableShare: false
 disableHLJS: false
 hideSummary: false

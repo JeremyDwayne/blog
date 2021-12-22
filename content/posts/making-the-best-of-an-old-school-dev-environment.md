@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Do you have a JANKY work setup like I did? Here's how to configure VS Code to SSH into your remote server you edit files directly on. *gags*"
-# canonicalURL: "https://jeremydwayne.com/2021/Dec/making-the-best-of-an-old-school-dev-environment"
+canonicalURL: "https://jeremydwayne.com/posts/making-the-best-of-an-old-school-dev-environment"
 disableShare: false
 disableHLJS: false
 hideSummary: false

@@ -12,6 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "My history of toxic gaming culture and gaming addiction."
+canonicalURL: "https://jeremydwayne.com/posts/why-i-decided-to-quit-mmorpg-games/"
 disableShare: false
 disableHLJS: false
 hideSummary: false

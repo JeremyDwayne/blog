@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "2021 has been a CRAZY year for me!"
-# canonicalURL: "https://jeremydwayne.com/2021/Dec/career-changes-and-year-review"
+canonicalURL: "https://jeremydwayne.com/posts/how-i-doubled-my-income-and-2021-year-review"
 disableShare: false
 disableHLJS: false
 hideSummary: false
