@@ -1,7 +1,7 @@
-baseURL: 'https://jeremydwayne.com/'
+baseURL: 'https://www.jeremydwayne.com/'
 languageCode: 'en-us'
 title: 'Jeremy Winterberg - Software Engineer'
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
