@@ -54,16 +54,16 @@ Initially I wanted a Tesla, I was dead set on getting a Model Y. But then I star
 
 I still wanted to be eco-friendly and considered two routes: Hybrid vs Other Brands' Electric Vehicles; the Chevy volts of the world for example. After thinking really hard on it, I decided to skip the EV route for now and go for a hybrid. I really want to kit out my house with a Tesla Powerwall, and solarpanels (need to do research on snow and performance in Wisconsin) before I buy an EV. That way I can set up a proper charging station in the garage for the car at the same time. And I just can't afford that now. Maybe in 5-10 years that project will be more feasible. I need to pay off my student loans first!
 
-I ended up going with a 2021 Toyota Venza. I wanted a Toyota Rav 4 Hybrid, but it would've been 4-6 months to get one. They're high in demand, and with the parts shortages production was only going to be delayed further. If I didn't take the Venza offered to me, they had a buyer lined up to call right after me. I know that typically would be considered a sales tactic, but in this case I believe them. There were 4 cars I was wanting to TEST DRIVE to see if I liked the car, and they were sold before they even arrived at the dealership. I had to test drive a Venza that belonged to someone who worked at the dealership!
+I ended up going with a 2021 Toyota Venza Hybrid. I wanted a Toyota Rav 4 Hybrid, but it would've been 4-6 months to get one. They're high in demand, and with the parts shortages production was only going to be delayed further. If I didn't take the Venza offered to me, they had a buyer lined up to call right after me. I know that typically would be considered a sales tactic, but in this case I believe them. There were 4 cars I was wanting to TEST DRIVE to see if I liked the car, and they were sold before they even arrived at the dealership. I had to test drive a Venza that belonged to someone who worked at the dealership!
 
-I've had it since August, and really like it a lot. It has enough smart features that it feels like a luxery car, and it gets great gas mileage at 30-40 mpg if you drive efficiently.
+I've had it since August, and really like it a lot. It has enough smart features that it feels like a luxury car, and it gets great gas mileage at 30-40 mpg if you drive efficiently.
 
 ## I turned 30!
 
 A few weeks after buying the Venza I celebrated my 30th birthday! My mom flew in to visit, and we went to see Shang-Chi at the movie theater. I don't have much else to say here other than I feel old now but at least I live alone and own a house.
 
 ## I Bought a New BED!!
-Ok, this is the one I'm the MOST excited for because it has direct impact on everything I do (sleep is important yo). I finally replaced my mattress that has a distinct Jeremy shaped dent in it. For those curious, I went with a [Saatva Classic Matress](https://www.saatva.com/mattresses/saatva-classic) in Luxery Firm. It's a bit stiffer than I'm used to, but after a few nights I started getting used to it.
+Ok, this is the one I'm the MOST excited for because it has direct impact on everything I do (sleep is important yo). I finally replaced my mattress that has a distinct Jeremy shaped dent in it. For those curious, I went with a [Saatva Classic Matress](https://www.saatva.com/mattresses/saatva-classic) in Luxury Firm. It's a bit stiffer than I'm used to, but after a few nights I started getting used to it.
 
 But it gets better than that. I also bought the [Saatva Lineal Adjustable Base](https://www.saatva.com/bases/lineal-adjustable-base), which was 💯% worth it! I can adjust the bed how I want for watching tv and to be in a comfy position for sleeping.
 
