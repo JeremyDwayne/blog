@@ -1,6 +1,6 @@
 baseURL: 'https://www.jeremydwayne.com/'
 languageCode: 'en-us'
-title: 'Jeremy Winterberg - Software Engineer, Cyclist, Aviation Enthusiast'
+title: 'Jeremy Winterberg - Software Engineer'
 paginate: 10
 theme: PaperMod
 
@@ -17,15 +17,14 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 'Jeremy Winterberg - Software Engineer, Cyclist, Aviation Enthusiast'
   description: "Software Engineer who needs a coffee sponsorship. Follow along the journey of my career and passion for writing software."
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Software Engineering, Tech, Coding, Aviation, Cycling, Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["/images/headerlogo.png"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -117,10 +116,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
+    - identifier: newsletter
+      name: newsletter
+      url: /newsletter/
+      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
