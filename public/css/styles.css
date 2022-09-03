@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.newsletter-form {
+  margin-top: 50px;
+}
+
+.skip-nav-link {
+  background: rgb(29, 30, 32);
+  color: rgb(218, 218, 219);
+  padding: .5rem 1.5rem;
+  border-radius: 0 0 .25rem .25rem;
+  position: absolute;
+  transform: translateY(-120%);
+  left: .5rem;
+  transition: transform 325ms ease-in;
+}
+
+.skip-nav-link:focus {
+  transform: translateY(0);
+}
