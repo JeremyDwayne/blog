@@ -1,6 +1,6 @@
 ---
 title: "Threads And Queues In Ruby"
-date: 2023-01-03T22:12:44-06:00
+date: 2023-01-03T02:12:44-06:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["post"]
