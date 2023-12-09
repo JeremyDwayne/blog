@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jeremy Winterberg - Staff Software Engineer</title>
+    <link>https://www.jeremydwayne.com/posts/</link>
+    <description>Recent content in Posts on Jeremy Winterberg - Staff Software Engineer</description>
+    <image>
+      <url>https://www.jeremydwayne.com/images/headerlogo.png</url>
+      <link>https://www.jeremydwayne.com/images/headerlogo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2023 02:12:44 -0600</lastBuildDate><atom:link href="https://www.jeremydwayne.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threads And Queues In Ruby</title>
+      <link>https://www.jeremydwayne.com/posts/threads_and_queues_in_ruby/</link>
+      <pubDate>Tue, 03 Jan 2023 02:12:44 -0600</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/threads_and_queues_in_ruby/</guid>
+      <description>Concurrent processing in Ruby is an exciting topic which I explore in this coding exercise.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m a staff software engineer now? Two Promotions in 8 Months</title>
+      <link>https://www.jeremydwayne.com/posts/two-promotions-in-8-months/</link>
+      <pubDate>Thu, 07 Jul 2022 20:11:46 -0500</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/two-promotions-in-8-months/</guid>
+      <description>Time flies when you&amp;#39;re busy af. Hard work pays off I guess</description>
+    </item>
+    
+    <item>
+      <title>How I Doubled My Income, and My 2021-Year Review</title>
+      <link>https://www.jeremydwayne.com/posts/how-i-doubled-my-income-and-2021-year-review/</link>
+      <pubDate>Wed, 22 Dec 2021 00:38:00 -0500</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/how-i-doubled-my-income-and-2021-year-review/</guid>
+      <description>2021 has been a CRAZY year for me!</description>
+    </item>
+    
+    <item>
+      <title>Making the Best of an Old School Dev Environment</title>
+      <link>https://www.jeremydwayne.com/posts/making-the-best-of-an-old-school-dev-environment/</link>
+      <pubDate>Thu, 25 Feb 2021 23:58:04 -0500</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/making-the-best-of-an-old-school-dev-environment/</guid>
+      <description>Do you have a JANKY work setup like I did? Here&amp;#39;s how to configure VS Code to SSH into your remote server you edit files directly on. *gags*</description>
+    </item>
+    
+    <item>
+      <title>Why I Decided to Quit MMORPG Games</title>
+      <link>https://www.jeremydwayne.com/posts/why-i-decided-to-quit-mmorpg-games/</link>
+      <pubDate>Thu, 24 Dec 2020 23:33:36 -0500</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/why-i-decided-to-quit-mmorpg-games/</guid>
+      <description>My history of toxic gaming culture and gaming addiction.</description>
+    </item>
+    
+    <item>
+      <title>The Rebirth of a Hackintosh Dev Environment</title>
+      <link>https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment/</link>
+      <pubDate>Sat, 17 Oct 2020 23:26:24 -0500</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

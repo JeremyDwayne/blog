@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on Jeremy Winterberg - Staff Software Engineer</title>
+    <link>https://www.jeremydwayne.com/tags/tech/</link>
+    <description>Recent content in tech on Jeremy Winterberg - Staff Software Engineer</description>
+    <image>
+      <url>https://www.jeremydwayne.com/images/headerlogo.png</url>
+      <link>https://www.jeremydwayne.com/images/headerlogo.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2020 23:26:24 -0500</lastBuildDate><atom:link href="https://www.jeremydwayne.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Rebirth of a Hackintosh Dev Environment</title>
+      <link>https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment/</link>
+      <pubDate>Sat, 17 Oct 2020 23:26:24 -0500</pubDate>
+      
+      <guid>https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
