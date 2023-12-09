@@ -123,7 +123,7 @@ line.
 
 The combination of digits means we need to treat them as characters and not
 integers, but we need to detect that they are integers. In ruby you can do
-something like `.to_i` so I looked for the equivalent in go and theirs a
+something like `.to_i` so I looked for the equivalent in go and there is a
 `strcov` package with a `ParseInt` and an `Atoi` function. The Atoi function
 seems easier to use so we'll go with that.
 
@@ -139,9 +139,10 @@ convert them to an integer, then add them to the running total being tracked by
 ### My solution
 
 If I take all of the above and slap it together, I get the following code. I'm
-just printing out the results for debugging purposes, and because all we can
-about is getting that final sum value. If this was code that mattered we would
-return the sum so that it could be used elsewhere in our codebase.
+just printing out the results for debugging purposes, and because all we care
+about is getting that final sum value. If this was code that was part of a
+larger system we would return the sum so that it could be used elsewhere in our
+codebase.
 
 ```go
 package main
