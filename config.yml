@@ -1,6 +1,6 @@
-baseURL: 'https://www.jeremydwayne.com/'
-languageCode: 'en-us'
-title: 'Jeremy Winterberg - Staff Software Engineer'
+baseURL: "https://www.jeremydwayne.com/"
+languageCode: "en-us"
+title: "Jeremy Winterberg - Software Engineer, Private Pilot"
 paginate: 10
 theme: PaperMod
 
@@ -17,8 +17,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Staff Software Engineer who needs a coffee sponsorship. Follow along the journey of my career and passion for writing software."
-  keywords: [Software Engineering, Tech, Coding, Aviation, Cycling, Blog, Portfolio]
+  description:
+    "Staff Software Engineer and private pilot who needs a coffee sponsorship."
+  keywords: [Software Engineering, Tech, Coding, Aviation, Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["/images/headerlogo.png"]
@@ -57,7 +58,8 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Jeremy Winterberg - Software Engineer
-    subtitle: "Software Engineer who needs a coffee sponsorship."
+    subtitle:
+      "Software Engineer, and private pilot who needs a coffee sponsorship."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -71,9 +73,10 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog! Follow along the journey of a software engineer's career and passion for writing software.
-      I'll be posting about the things I'm nerding out on and tips I've picked up along the way. You're my people if you're into neovim, cycling, aviation, and all things SciFi.
-
+    Content:
+      Welcome to my blog! Follow along for the journey of my career writing
+      software and passion for aviation. I'll be posting about the things I'm
+      nerding out on and tips I've picked up along the way.
   socialIcons:
     - name: twitter
       url: "https://twitter.com/jeremydwayne"
@@ -116,10 +119,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: newsletter
-      name: newsletter
-      url: /newsletter/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
@@ -130,21 +129,21 @@ menu:
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 markup:
-    highlight:
-        # anchorLineNos: true
-        pygmentsUseClasses: true
-        codeFences: true
-        guessSyntax: false
-        hl_Lines: ""
-        lineNoStart: 1
-        lineNos: false
-        lineNumbersInTable: true
-        noClasses: false
-        style: "dracula"
-        tabWidth: 2
+  highlight:
+    # anchorLineNos: true
+    pygmentsUseClasses: true
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: false
+    style: "dracula"
+    tabWidth: 2
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
