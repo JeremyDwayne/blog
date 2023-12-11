@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jeremydwayne.com/posts/advent-of-code-2023-day-1/</loc>
+    <lastmod>2023-12-08T21:30:18-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jeremydwayne.com/tags/advent-of-code/</loc>
+    <lastmod>2023-12-08T21:30:18-06:00</lastmod>
+  </url><url>
     <loc>https://www.jeremydwayne.com/</loc>
-    <lastmod>2023-01-03T02:12:44-06:00</lastmod>
+    <lastmod>2023-12-08T21:30:18-06:00</lastmod>
   </url><url>
     <loc>https://www.jeremydwayne.com/tags/post/</loc>
-    <lastmod>2023-01-03T02:12:44-06:00</lastmod>
+    <lastmod>2023-12-08T21:30:18-06:00</lastmod>
   </url><url>
     <loc>https://www.jeremydwayne.com/posts/</loc>
-    <lastmod>2023-01-03T02:12:44-06:00</lastmod>
+    <lastmod>2023-12-08T21:30:18-06:00</lastmod>
   </url><url>
     <loc>https://www.jeremydwayne.com/tags/</loc>
-    <lastmod>2023-01-03T02:12:44-06:00</lastmod>
+    <lastmod>2023-12-08T21:30:18-06:00</lastmod>
+  </url><url>
+    <loc>https://www.jeremydwayne.com/posts/advent-of-code-2023-introduction/</loc>
+    <lastmod>2023-12-08T20:42:49-06:00</lastmod>
   </url><url>
     <loc>https://www.jeremydwayne.com/posts/threads_and_queues_in_ruby/</loc>
     <lastmod>2023-01-03T02:12:44-06:00</lastmod>
@@ -80,7 +89,5 @@
     <loc>https://www.jeremydwayne.com/categories/</loc>
   </url><url>
     <loc>https://www.jeremydwayne.com/search/</loc>
-  </url><url>
-    <loc>https://www.jeremydwayne.com/newsletter/</loc>
   </url>
 </urlset>

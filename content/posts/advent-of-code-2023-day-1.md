@@ -34,7 +34,7 @@ editPost:
 
 [Link To AOC - Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
 
-## Part 1
+## Problem Summary
 
 > On each line, the calibration value can be found by combining the first digit
 > and the last digit (in that order) to form a single two-digit number. For
@@ -212,3 +212,4 @@ Off to a great start! I look forward to solving Day 2 next!
 
 - [Introduction](/posts/advent-of-code-2023-introduction)
 - [Day 1 - Trebuchet?!](/posts/advent-of-code-2023-day-1)
+- [Day 2 - Cube Conundrum](/posts/advent-of-code-2023-day-2)

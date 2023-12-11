@@ -1,6 +1,6 @@
-baseURL: "https://www.jeremydwayne.com/"
+baseURL: "/"
 languageCode: "en-us"
-title: "Jeremy Winterberg - Software Engineer, Private Pilot"
+title: "Jeremy Winterberg - Staff Software Engineer, Private Pilot"
 paginate: 10
 theme: PaperMod
 
@@ -17,8 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description:
-    "Staff Software Engineer and private pilot who needs a coffee sponsorship."
+  description: "Staff Software Engineer and private pilot who needs a coffee sponsorship."
   keywords: [Software Engineering, Tech, Coding, Aviation, Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -58,8 +57,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Jeremy Winterberg - Software Engineer
-    subtitle:
-      "Software Engineer, and private pilot who needs a coffee sponsorship."
+    subtitle: "Software Engineer, and private pilot who needs a coffee sponsorship."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
