@@ -1,6 +1,6 @@
 ---
-title: "Advent of Code 2023 Day 2"
-date: 2023-12-10T15:51:47-06:00
+title: "Advent of Code 2023 - Day 2"
+date: 2023-12-11T02:51:47-06:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["post"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Advent of Code 2023 - Day 2 Cube Conundrum"
 canonicalURL: "https://www.jeremydwayne.com/posts/advent-of-code-2023-day-2/"
 disableShare: false
 disableHLJS: false
