@@ -1,5 +1,5 @@
 ---
-title: "Advent of Code 2023 - Day 2"
+title: "Advent of Code 2023 - Day 2 Cube Conundrum"
 date: 2023-12-11T02:51:47-06:00
 # weight: 1
 # aliases: ["/first"]
