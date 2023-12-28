@@ -57,24 +57,26 @@ things.
 
 ### I've been reading a few books
 
-I finished `Tidy First?` by Kent Beck a couple of weeks ago. Highly recommend
-that for all software engineers as it essentially permits you to clean up your
-code instead of passing it off as tech debt that never gets refactored.
+I finished [Tidy First?](https://amzn.to/41C5oO6) by Kent Beck a couple of weeks
+ago. Highly recommend that for all software engineers as it essentially permits
+you to clean up your code instead of passing it off as tech debt that never gets
+refactored.
 
 I'm currently about 3/4ths of the way through
-`The Software Engineer's Guidebook` by Gergely Orosz, the
-[Pragmatic Engineer](https://www.pragmaticengineer.com). This book has been an
-excellent read so far because it took the experiences that I had at my previous
-employers and gave me the proper words to describe things the way the rest of
-the industry would expect to hear them. I'm not learning a lot of new things
-personally because I've experienced most of what he's writing about, but its
-another book I highly recommend for all software engineers, particularly ones
-looking to grow into the Senior+ level.
+[The Software Engineer's Guidebook](https://amzn.to/3RFF3Kr) by Gergely Orosz,
+the [Pragmatic Engineer](https://www.pragmaticengineer.com). This book has been
+an excellent read so far because it took the experiences that I had at my
+previous employers and gave me the proper words to describe things the way the
+rest of the industry would expect to hear them. I'm not learning a lot of new
+things personally because I've experienced most of what he's writing about, but
+its another book I highly recommend for all software engineers, particularly
+ones looking to grow into the Senior+ level.
 
-And then after I finish that I plan on reading through `System Design Interview`
-Volume 1 & 2 by Alex Xu of [ByteByteGo](https://bytebytego.com). I've gone
-through most of his first book in the past, but now he's released a second
-volume with even more knowledge. But in addition to the books, the
+And then after I finish that I plan on reading through System Design Interview
+[Volume 1](https://amzn.to/3GZPIuL) and [Volume 2](https://amzn.to/3RH8zj4) by
+Alex Xu of [ByteByteGo](https://bytebytego.com). I've gone through most of his
+first book in the past, but now he's released a second volume with even more
+knowledge. But in addition to the books, the
 [ByteByteGo](https://blog.bytebytego.com) blog/newsletter is incredibly valuable
 and I plan on going through the archives there for even more system design
 knowledge.
