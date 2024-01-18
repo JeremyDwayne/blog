@@ -79,30 +79,43 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content:
-      Welcome to my blog! Follow along for the journey of my career writing
-      software and passion for aviation. I'll be posting about the things I'm
-      nerding out on and tips I've picked up along the way.
+    Title: "Hi \U0001F44B I'm Jeremy"
+    Content: >
+      I've been building resilient software for over 8 years, primarily in Ruby on Rails.
+      My expertise is in optimizing and scaling the backend services of distributed systems
+
+
+      ✈️ When I'm not behind a desk you'll likely find me flying my 1963 Piper Cherokee 180
+
+
+      ---
+
+      I am actively looking for my next IC role and would love to connect with you to discuss opportunities you're recruiting for.
+
   socialIcons:
     - name: instagram
+      title: Follow me on Instagram
       url: "https://instagram.com/jeremydwayne"
     - name: github
+      title: See the code I'm working on publicly on Github
       url: "https://github.com/JeremyDwayne"
     - name: youtube
+      title: Watch the content I'm recording on Youtube
       url: "https://youtube.com/jeremydwayne"
     - name: twitch
+      title: Hang out with me live on Twitch
       url: "https://twitch.tv/jeremydwayne"
     - name: twitter
+      title: I will never call this X
       url: "https://twitter.com/jeremydwayne"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
