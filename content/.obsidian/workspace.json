@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "249df854d5af9d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "43db3f3a7a263330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209755c9946e0040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/advent-of-code-2023-day-1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a7a6259f5dd92222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/post.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd2d29704d79b0b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3347c4e82861281f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8d963929303c08b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fa91a684792e34b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8483024b3f353bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5465802a812b3d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e38860ce5619c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cb97925fdba80a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a20274f9cfc69a25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4828674b7cea02b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "396f049867e860e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c8d963929303c08b",
+  "lastOpenFiles": [
+    "posts/assets",
+    "DSA - Simple Search vs Binary Search.md",
+    "templates/post.md",
+    "posts/advent-of-code-2023-day-1.md",
+    "posts/Consistency-Is-Difficult.md",
+    "templates"
+  ]
+}

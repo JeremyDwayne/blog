@@ -1,8 +1,14 @@
 baseURL: "https://www.jeremydwayne.com/"
 languageCode: "en-us"
-title: "Jeremy Winterberg - Staff Software Engineer, Private Pilot"
+title: "Jeremy Winterberg - Software Engineer, Private Pilot"
 paginate: 10
 theme: PaperMod
+
+module:
+  mounts:
+    source: "content"
+    target: "content"
+    excludeFiles: ["templates/**"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -17,8 +23,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description:
-    "Staff Software Engineer and private pilot who needs a coffee sponsorship."
+  description: "Software Engineer and private pilot who needs a coffee sponsorship."
   keywords: [Software Engineering, Tech, Coding, Aviation, Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -58,8 +63,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Jeremy Winterberg - Software Engineer
-    subtitle:
-      "Software Engineer, and private pilot who needs a coffee sponsorship."
+    subtitle: "Software Engineer and private pilot who needs a coffee sponsorship."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -78,16 +82,16 @@ params:
       software and passion for aviation. I'll be posting about the things I'm
       nerding out on and tips I've picked up along the way.
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/jeremydwayne"
     - name: instagram
       url: "https://instagram.com/jeremydwayne"
     - name: github
       url: "https://github.com/JeremyDwayne"
-    - name: twitch
-      url: "https://twitch.tv/jeremydwayne"
     - name: youtube
       url: "https://youtube.com/jeremydwayne"
+    - name: twitch
+      url: "https://twitch.tv/jeremydwayne"
+    - name: twitter
+      url: "https://twitter.com/jeremydwayne"
 
   analytics:
     google:
