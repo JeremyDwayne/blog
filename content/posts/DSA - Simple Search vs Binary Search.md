@@ -30,7 +30,7 @@ editPost:
   Text: Suggest Changes
   appendFilePath: true
 ---
-## Introduction
+## Interview Skills Series Introduction
 
 I've been doing a lot of interview prep and studying for technical interviews. And the one topic that always has myself and thousands of other engineers depressed is data structures and algorithms, aka **DSA**.
 
@@ -46,8 +46,7 @@ To start off this series I'm going to go over two very simple search algorithms,
 
 ## Simple Search
 
-Now, there isn't really an algorithm called simple search, but I can guarantee you've all use this one. If you have an array of data such as this:
-![](assets/Pasted%20image%2020240118144120.png)
+Now, there isn't really an algorithm called simple search, but I can guarantee you've all use this one. If you have an array of data such as [1,2,3,4,5,6,7,8,9].
 
 Simple search would iterate over every index of the array and comparing the value to what you're looking for. For simplicity, and to follow general conventions, I'm going to call the array haystack and the target value needle. Find the needle in the haystack.
 
@@ -69,10 +68,10 @@ This returns the index of the array where the needle is found.
 
 This looks fairly innocent for a small dataset like this, but once you scale this to potentially millions of values it slows down considerably.
 
-Using Big Oh notation this is `O(n)`, linear. As the number of values in the array increase, the time required to complete is increased as well.
+Using Big Oh notation this is **O(n)**, linear. As the number of values in the array increase, the time required to complete is increased as well.
 
 ## Binary Search
-Enter Binary Search. Now, there is a caveat to using binary search. The array must already be sorted. Say we have a haystack [1,2,3,4,5,6,7,8,9] and we're looking for the index of 8. You could iterate over the entire array to get index 7. Or you can use binary search.
+Enter Binary Search. Now, there is a caveat to using binary search. The array must already be sorted. Say we have that same array [1,2,3,4,5,6,7,8,9] and we're looking for the index of 8. You could iterate over the entire array to get index 7. Or you can use binary search.
 
 ```ruby
 def binary_search(low, high, needle, haystack)
@@ -97,7 +96,6 @@ binary_search(0, haystack.length, 8, haystack)
 
 Walking through this code, we have an array of length 9. So we call binary search against a low of 0, and a high of 9, searching for 8 in the haystack.
 
-
 (0+9)/2 = 4.5, ruby rounds this down to 4. The value at index 4 is 5
 ![](assets/Pasted%20image%2020240118153735.png)
 
@@ -113,7 +111,7 @@ These both found the same answer, index 7. However, they did it in a different n
 Simple Search took 8 steps to find index 7.  
 Binary Search took 2.
 
-Binary search has a run time complexity of O(log n). Admittedly I'm not great at math, so I'm not going to pretend I can explain logarithms. But the general idea the makes an algorithm logarithmic is dividing the set you loop over in half each iteration. 
+Binary search has a run time complexity of **O(log n)**. Admittedly I'm not great at math, so I'm not going to pretend I can explain logarithms. But the general idea that makes an algorithm logarithmic is dividing the set you loop over in half each iteration. 
 
 I do this in the calculation of middle `(low+high)/2` and then passing middle+1 or middle-1 in the recursive calls to change the low or high respectively.
 
