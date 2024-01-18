@@ -1,12 +1,12 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "livePreview": true,
+  "livePreview": false,
   "propertiesInDocument": "visible",
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "posts",
+  "newFileFolderPath": "content/posts",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "posts/assets"
+  "attachmentFolderPath": "content/posts/assets"
 }

@@ -140,9 +140,9 @@ markup:
     guessSyntax: false
     hl_Lines: ""
     lineNoStart: 1
-    lineNos: false
+    lineNos: true
     lineNumbersInTable: true
-    noClasses: false
+    # noClasses: false
     style: "dracula"
     tabWidth: 2
 

@@ -1,10 +1,7 @@
 ---
-title:
-  "{ title }": 
-date:
-  "{ date }": 
-description:
-  "{ title }": 
+title: {{title}} 
+date: {{date}} 
+description: {{title}} 
 canonicalURL: https://www.jeremydwayne.com/posts/{{title}}/
 tags:
   - post
