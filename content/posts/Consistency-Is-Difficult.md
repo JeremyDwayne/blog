@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "What happened to the AOC posts you promised?"
-canonicalURL: "https://www.jeremydwayne.com/posts/Consistency-Is-Difficult/"
+canonicalURL: "https://www.jeremydwayne.com/posts/consistency-is-difficult/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
