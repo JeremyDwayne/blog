@@ -3,7 +3,18 @@ title: "Making the Best of an Old School Dev Environment"
 date: 2021-02-25T23:58:04-05:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["ftp","ssh","testing","tutorial","vscode","phpunit","automation","remote-ssh","tdd"]
+tags:
+  [
+    "ftp",
+    "ssh",
+    "testing",
+    "tutorial",
+    "vscode",
+    "phpunit",
+    "automation",
+    "remote-ssh",
+    "tdd",
+  ]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +23,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Do you have a JANKY work setup like I did? Here's how to configure VS Code to SSH into your remote server you edit files directly on. *gags*"
-canonicalURL: "https://www.jeremydwayne.com/posts/making-the-best-of-an-old-school-dev-environment/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/making-the-best-of-an-old-school-dev-environment/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,17 +32,19 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/images/posts/remote-ssh.png" # image path/url
-    alt: "MS Remote - SSH VS Code Plugin" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+  image: "/images/posts/remote-ssh.png" # image path/url
+  alt: "MS Remote - SSH VS Code Plugin" # alt text
+  caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: false # only hide on current single page
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
+
 ## No Local Dev Environment??
+
 At the company I (used to) work at, we write code off our remote server without setting up a local environment. Finding the best remote dev environment has been a journey for me. The extension FTP Simple has worked well so far, but it has some draw backs.
 
 You need to verify that the new version of the file downloaded off the server, and when you save that it actually uploaded. Otherwise you might overwrite something accidentally.
@@ -39,6 +52,7 @@ It can be a little slow if its downloading a large file
 Sometimes if you refresh the browser faster than the file saved you’ll get a fatal error
 
 ### What’s the solution?
+
 Running VS Code through Remote SSH. This setup allows you to use tools that require the full scope of the project’s files.
 
 You can now access all of the Git tools/extensions vs code has instead of doing it through the web interface.
@@ -73,19 +87,24 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=HerisIT
 ## Steps for Setup
 
 1. Generate an SSH Key on your local machine.
-  * Follow the steps there for checking existing keys, generating a new key, adding it to the SSH Agent, and copying it to github.
-  * https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
+- Follow the steps there for checking existing keys, generating a new key, adding it to the SSH Agent, and copying it to github.
+- https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+
 2. Add the SSH Key to the server.
-  * You should have an account on the server, if you aren’t sure, speak to your server administrator.
-    - The FTP account used in FTP-Simple should work for ssh as well
-    - However, currently you probably only have password access. You will need that password!
-  * run the command ssh-copy-id <accountname>@<devsite url>
-    - This will prompt you for your password, enter it.
-  * You should be able to SSH to the server without a password now!
-    - test this by doing ssh <accountname>@<devsite url>, if it doesn’t prompt for a password you’re set.
+
+- You should have an account on the server, if you aren’t sure, speak to your server administrator.
+  - The FTP account used in FTP-Simple should work for ssh as well
+  - However, currently you probably only have password access. You will need that password!
+- run the command ssh-copy-id <accountname>@<devsite url>
+  - This will prompt you for your password, enter it.
+- You should be able to SSH to the server without a password now!
+  - test this by doing ssh <accountname>@<devsite url>, if it doesn’t prompt for a password you’re set.
+
 3. In VS Code, with the Remote SSH extension installed, bring up your command pallette (ctrl/cmd + shift + p)
-  * type in Remote-SSH and open configuration file, this should be at ~/.ssh/config or somewhere similar
-  * enter the following config, replacing the values with your own.
+
+- type in Remote-SSH and open configuration file, this should be at ~/.ssh/config or somewhere similar
+- enter the following config, replacing the values with your own.
 
 ```bash
 Host <devsite>
@@ -93,14 +112,20 @@ User <ssh account>
 HostName <devsite url>
 Port 22
 ```
+
 4. In VS Code, with the Remote SSH extension installed, bring up your command pallette (ctrl/cmd + shift + p)
-  - This time you’re going to type Remote-SSH and select connect to host
-  - Select the Host you created in the ssh config
+
+- This time you’re going to type Remote-SSH and select connect to host
+- Select the Host you created in the ssh config
+
 5. You should now be connecting to the server over SSH.
 6. Extensions may need to be reinstalled on the SSH host, I know I did
-  - I believe its due to them installing various dependencies to run.
+
+- I believe its due to them installing various dependencies to run.
+
 7. I also recommend opening your remote project directory, then saving the workspace locally on your computer. Then when you open vs code you can instantly go to that folder on the server in the future with ease.
-  - Saving on the server was causing me issues.
+
+- Saving on the server was causing me issues.
 
 ## Conclusion
 
@@ -115,7 +140,7 @@ Always strive to make your development environment work for you, and make your l
 _These commands are really just for my coworkers. We write a web application in PHP._
 
 - add to ~/.bashrc for global composer installations to work as commands
-  * Only really needed if you want to run phpunit-watcher in the terminal vs the vs code extension
+  - Only really needed if you want to run phpunit-watcher in the terminal vs the vs code extension
 
 ```bash
 export PATH="$PATH:$HOME/.config/composer/vendor/bin"

@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Concurrent processing in Ruby is an exciting topic which I explore in this coding exercise."
-canonicalURL: "https://www.jeremydwayne.com/posts/threads_and_queues_in_ruby/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/threads_and_queues_in_ruby/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,11 +21,12 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
-I recently tried solving a coding challenge that required concurrent processing of data. 
+
+I recently tried solving a coding challenge that required concurrent processing of data.
 This is something I've honestly never done before in code. At work, almost everything is event driven, and tasks that do
 need to be done asynchronously or concurrently have been done through systems like Sidekiq, Redis or message queues like Kafka.
 
@@ -36,15 +37,18 @@ What I can do, however, is document what I did and continue to learn and grow fr
 I found this to be incredibly engaging for me, because it was a new concept that I hadn't attempted to write code for before.
 
 ## The Problem
+
 A user's identity is flagged, and they must meet with a support rep to validate they are who they say they are.
 Design a system that ingests the users, assigns a support rep to the case, and validates their identity.
 
 ### Requirements
+
 1. A new user will be added to the queue every 2 seconds
 2. An identity will be verified after 4 seconds
 3. A support rep can only work on one validation at a time.
 
 ### Expected Output
+
 1. `User <ID> has been verified and removed from the queue`
 2. Metrics to demonstrate the progress of the queue.
 
@@ -78,6 +82,7 @@ Since we're building out a queue data structure, we can use the Queue class that
 The alternative approach, and what I used initially, is to use an array as a basic queue.
 
 Something like this technically works, but is a basic approach and isn't as straightforward to process in parallel.
+
 ```ruby
 users = []
 users.push({ id: 1})
@@ -86,6 +91,7 @@ users.shift
 
 Once I remembered there actually is a standard Queue class, I noticed that it intrinsically supports Threads.
 Threads are how I plan on processing multiple users simultaneously.
+
 ```ruby
 class VerificationQueue
   attr_reader :users, :support_reps
@@ -146,7 +152,7 @@ class VerificationQueue
 end
 ```
 
-I spin up a new thread for each support rep, so the code can verify the users simultaneously. When each support rep 
+I spin up a new thread for each support rep, so the code can verify the users simultaneously. When each support rep
 becomes available again, it picks up the next user in the queue.
 
 The algorithm I used to select an available support rep isn't elegant. It just loops through the reps and chooses the
@@ -212,6 +218,7 @@ end
 ```
 
 Here's an example of how I might do it with a Struct.
+
 ```ruby
 SupportRep = Struct.new(:id, :status)
 
@@ -232,6 +239,7 @@ Exploring the alternate Struct method is for another time. For now let's try to 
 
 Here is some simple code to build up the data we need to run this. In order to simulate a new user being added every 2
 seconds, I also am using threads to start the validation queue and then add users to it.
+
 ```ruby
 users = [
   { id: 1 },
@@ -256,12 +264,12 @@ support_reps = [
 start_time = Process.clock_gettime(Process::CLOCK_MONOTONIC)
 queue = VerificationQueue.new
 
-support_reps.map do |ref| 
+support_reps.map do |ref|
   support_rep = SupportRep.new(ref[:id])
   queue.add_support_rep(support_rep)
 end
 
-threads = [] 
+threads = []
 
 queue.add_user(users.shift)
 
@@ -278,7 +286,7 @@ threads << Thread.new do
       start_time = Process.clock_gettime(Process::CLOCK_MONOTONIC)
       until(elapsed_time(start_time) >= 2.0)
       end
-      queue.add_user(user) 
+      queue.add_user(user)
     end
   rescue ThreadError
   end
@@ -298,6 +306,7 @@ puts "/nElapsed Time: #{elapsed_time(start_time).round(4)}"
 The output is a bit messy, but you can get the gist of it. It processes 10 users in 19 seconds, each user taking 4
 seconds. Without using threads, this would've taken a minimum of 40 seconds. Add more support reps and it takes even
 less time.
+
 ```
 ❯ ruby threads.rb
 support_rep 1 has started working.
@@ -422,6 +431,7 @@ Elapsed Time: 19.3081
 ```
 
 ## Recap
+
 Threads are still something I'm learning how to best utilize. But this was a very engaging coding challenge.
 
 I want to do more of these exercises regularly. They introduce me to new concepts and push me to be a better engineer.

@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "My history of toxic gaming culture and gaming addiction."
-canonicalURL: "https://www.jeremydwayne.com/posts/why-i-decided-to-quit-mmorpg-games/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/why-i-decided-to-quit-mmorpg-games/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,17 +21,19 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: "<image path/url>" # image path/url
+  alt: "<alt text>" # alt text
+  caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
+
 ## My Experience With Gaming Addiction
+
 I’ve been a gamer my entire life, like most millennials. The first games I remember playing were Tetris on the original black and white gameboy, DOS computer games like Crystal Cave, Brick Breaker, and Jazz Jackrabbit, and the early NES games like mario bro’s and duck hunt. My whole life I played games till I beat them, then moved on. This is a relatively healthy relationship with games. But then a new genre came to my attention, MMORPG (Massively Multiplayer Online Role-Playing Game).
 
 These are the social games that suck away your life force till you bleed dry. They’re created intentionally to get you to play longer, to use their paid services, to create relationships with friends and rivals, to join the Horde or Alliance against each other as one body. It’s not a new concept that these games are highly addicting. I’ve been playing them since 2005, and I’ve finally said enough.
@@ -43,7 +45,6 @@ My first MMORPG was Runescape. I started playing the game because a friend of mi
 Runescape was my life. All of my friends played that game, which slowly changed to all of my friends were only met online through that game. I slowly lost contact with everyone who lived near me who wasn’t playing runescape. I’m still friends and talk to most of the people I met through gaming. I even was the best man at one of their wedding’s a couple years ago.
 
 But, when you stop doing an activity that takes up all of your free time.. you fill it with something else. Which is when I was introduced to World of Warcraft.
-
 
 ### World of Warcraft
 
@@ -73,7 +74,7 @@ When I was given the news, I had a few initial reactions.
 - Self-doubt: This was confirmation that my skill level, I was so anxious about, was actually bad, and this wasn’t just in my head.
 - Anger: Mad that the people who made the decision weren’t delivering the news. Mad that I was silently being pushed away off the team. Hurt that no one cared that I was removed from the team except 2-3 people.
 - Relief: I finally had a reason to quit the game.
-I responded to the news with my final feedback and advice for the leadership team. The overall gist of it was they need to fix their communication. I posted my farewell to the team in the guild discord channel, cancelled my wow subscription, and uninstalled the game. WoW has been removed from my life after 8 years, and thousands of hours of gametime played.
+  I responded to the news with my final feedback and advice for the leadership team. The overall gist of it was they need to fix their communication. I posted my farewell to the team in the guild discord channel, cancelled my wow subscription, and uninstalled the game. WoW has been removed from my life after 8 years, and thousands of hours of gametime played.
 
 ### How am I doing now?
 

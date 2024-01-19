@@ -1,8 +1,8 @@
 ---
-title: {{title}} 
-date: {{date}} 
-description: {{title}} 
-canonicalURL: https://www.jeremydwayne.com/posts/{{title}}/
+title: { { title } }
+date: { { date } }
+description: { { title } }
+canonicalURL: https://www.jeremywinterberg.com/posts/{{title}}/
 tags:
   - post
 author: Me

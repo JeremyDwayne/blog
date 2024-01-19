@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Advent of Code 2023 - Day 2 Cube Conundrum"
-canonicalURL: "https://www.jeremydwayne.com/posts/advent-of-code-2023-day-2/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/advent-of-code-2023-day-2/"
 disableShare: false
 disableHLJS: false
 hideSummary: false

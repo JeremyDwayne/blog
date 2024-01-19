@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Advent of Code - Day 1: Trebuchet?!"
-canonicalURL: "https://www.jeremydwayne.com/posts/advent-of-code-2023-day-1/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/advent-of-code-2023-day-1/"
 disableShare: false
 disableHLJS: false
 hideSummary: false

@@ -3,7 +3,7 @@ title: "How I Doubled My Income, and My 2021-Year Review"
 date: 2021-12-22T00:38:00-05:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["dev","career","life","update"]
+tags: ["dev", "career", "life", "update"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "2021 has been a CRAZY year for me!"
-canonicalURL: "https://www.jeremydwayne.com/posts/how-i-doubled-my-income-and-2021-year-review/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/how-i-doubled-my-income-and-2021-year-review/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,17 +21,19 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: "<image path/url>" # image path/url
+  alt: "<alt text>" # alt text
+  caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
+
 ## I Bought a House before 30!
+
 The last several years has been a bit rough for me. I had been living with my parents for many years. At first, I was taking care of my grandfather as his primary caregiver, then as I went back to college for Computer Science, and then continued after graduating as I job hunted, did freelance gigs, and got my first "real job" in industry. I didn't have a lot of money, and my income was sporadic at best. My parents welcomed the help around the house, and I didn't mind it. They're approaching the retirement age and any bit I can help them makes their lives much easier.
 
 Now, because they're approaching the retirement age, they decided they wanted to move to Florida. They had been talking about it for a while, but it was always a "maybe in 5 years" plan. In the middle of 2020 and the insanely rough beginnings of the Covid-19 pandemic, they decided to go through with those plans and started designing a house to retire in in Florida.
@@ -63,14 +65,16 @@ I've had it since August, and really like it a lot. It has enough smart features
 A few weeks after buying the Venza I celebrated my 30th birthday! My mom flew in to visit, and we went to see Shang-Chi at the movie theater. I don't have much else to say here other than I feel old now but at least I live alone and own a house.
 
 ## I Bought a New BED!!
+
 Ok, this is the one I'm the MOST excited for because it has direct impact on everything I do (sleep is important yo). I finally replaced my mattress that has a distinct Jeremy shaped dent in it. For those curious, I went with a [Saatva Classic Matress](https://www.saatva.com/mattresses/saatva-classic) in Luxury Firm. It's a bit stiffer than I'm used to, but after a few nights I started getting used to it.
 
 But it gets better than that. I also bought the [Saatva Lineal Adjustable Base](https://www.saatva.com/bases/lineal-adjustable-base), which was 💯% worth it! I can adjust the bed how I want for watching tv and to be in a comfy position for sleeping.
 
 ## I Changed Jobs and Doubled My Income!??
-That's right, this is NOT click bait! I actually doubled my income. And you can too with this easy trick! 
 
-*Get a new job at a company that pays market value and provides benefits.*
+That's right, this is NOT click bait! I actually doubled my income. And you can too with this easy trick!
+
+_Get a new job at a company that pays market value and provides benefits._
 
 There's not really a trick, just interview a lot and eventually get a higher paying job (I will talk about interviewing tips in another post sometime). I went from being severely underpaid without any benefits to being properly compensated with a great salary and actual benefits. It just happened to be over double what I was making previously.
 
@@ -81,10 +85,11 @@ To give you an example of the market need. Every single day I would get a messag
 I accepted an offer from a fintech infrastructure startup that's well known in the industry. For now, I won't name them, but I really am enjoying working there and will hapily talk to people about it in private if you're interested. I moved from a "startup" with 17 employees, to one with over 300 employees. Boy what a difference!
 
 There are a few things that this gave me:
+
 1. I'm finally working at a company that does its best to follow industry standards and best practices. This is teaching me skills I've been begging to develop for years but never worked at a place large enough.
 2. I learned that money isn't everything, but when you're paid under the market rate, you feel like you're not valued, and the quality of my work suffered. Being properly compensated has made me feel confident in my abilities and that I belong in this industry. I look forward to logging in for work every day.
 3. I'm happier. I'm not stressed about money, if I have health insurance still, or if I'll get my next paycheck on time. I like the people I work with, I respect them, and I am learning from them.
-4. I want to grow my career down the Individual Contributor path and land in a staff/principal software engineer role someday. Before I thought management might be the right route, but now I know I just want to be a solid engineer. 
+4. I want to grow my career down the Individual Contributor path and land in a staff/principal software engineer role someday. Before I thought management might be the right route, but now I know I just want to be a solid engineer.
 
 I have a long ways to go, and plenty of time to get there. I went from thinking I was senior level at a small startup to realizing I'm still probably considered mid-level. But that's ok, it just means I have more room to grow.
 

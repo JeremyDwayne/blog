@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Advent of Code Introduction"
-canonicalURL: "https://www.jeremydwayne.com/posts/advent-of-code-2023-introduction/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/advent-of-code-2023-introduction/"
 disableShare: false
 disableHLJS: false
 hideSummary: false

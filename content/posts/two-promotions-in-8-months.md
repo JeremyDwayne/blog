@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Time flies when you're busy af. Hard work pays off I guess"
-canonicalURL: "https://www.jeremydwayne.com/posts/two-promotions-in-8-months/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/two-promotions-in-8-months/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,16 +21,17 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: "<image path/url>" # image path/url
+  alt: "<alt text>" # alt text
+  caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
+
 I'm probably just as shocked as you are reading that title. I still can't
 believe I've receieved two promotions in the past 8 months. I had intended to
 do a number of posts on what I was learning and the progress of my career into
@@ -39,20 +40,22 @@ the last 8 months, what I've been up to since my last post, and what my goals
 are going forward.
 
 ## What happened?
+
 I've been extremely busy with my new job. I quickly became a top performer on
 my team and kept taking on new challenges. I'm now on a new team, and I am
 contributing to several high priority efforts aiming to improve our systems
 and engineering practices across the board.
 
 ### My original role and how I got the first promotion
+
 I was hired as a software engineer on the tier 3 support team to provide expert
 knowledge and solutions for production incidents. This wasn't my ideal role, as I
-wouldn't be writing features and mostly providing operations support. But I was 
-promised we would be creating internal tooling and that eventually coding would 
+wouldn't be writing features and mostly providing operations support. But I was
+promised we would be creating internal tooling and that eventually coding would
 be a factor.
 
-No system gets deployed without bugs, which is why tier 3 support teams like this 
-exist. Some companies do a rotation within engineering, some have dedicated 
+No system gets deployed without bugs, which is why tier 3 support teams like this
+exist. Some companies do a rotation within engineering, some have dedicated
 headcount for it like my company does.
 
 In addition to the 'day to day' problems cusomers experienced, I was heavily involved
@@ -75,11 +78,12 @@ felt the timing was right to make the ask, and it paid off. Leadership agreed an
 the promotion to senior.
 
 ### Why did I change teams?
-A few months passed after my promotion and things were going well. I implimented new 
-procedures and setup communication boundaries with stakeholders, which made things 
+
+A few months passed after my promotion and things were going well. I implimented new
+procedures and setup communication boundaries with stakeholders, which made things
 more efficient for the team. We also hired some new folks and were placed under the
 care of a new director. The additions to the team took a lot off my plate, thus allowing
-me to focus on more challenging issues. So I finally was able to start planning for 
+me to focus on more challenging issues. So I finally was able to start planning for
 the internal tooling I was promised around 6 months prior.
 
 After creating some initial PRD and STOP proposals engineering leadership
@@ -88,22 +92,23 @@ they took it up a knotch and decided I needed to have my own team to focus entir
 on this project. Seemingly overnight I was swapped over to a new engineering team
 who were being pulled off a different project to work on my proposed project.
 
-I've been with this new team for around 2 months now, and we're about to deploy the 
-MVP to production in a week. I couldn't be happier with what we have accomplished, and 
+I've been with this new team for around 2 months now, and we're about to deploy the
+MVP to production in a week. I couldn't be happier with what we have accomplished, and
 I am proud to work alongside talented people.
 
 ### The coveted promotion to Staff Software Engineer
+
 Shortly after this new project started, a series of events led to my workload being
 increased dramatically. I was asked to fix platform wide issues and take a large role
 in our efforts to migrate off our current hosting platform to AWS.
 
 This increase in responsibility in addition to the existing major project I was involved
-in prompted me to start inquiring about career advancement yet again. My intentions were 
+in prompted me to start inquiring about career advancement yet again. My intentions were
 only to develop a roadmap for how to move towards the promotion. What standards of work
 was expected, what kind of projects I need to participate in, what technical design and
 leadership I needed to display, etc..
 
-I had a few conversations about this with my engineering manager without much progress 
+I had a few conversations about this with my engineering manager without much progress
 towards building such a plan. He promised to look into it, so I patiently waited.
 Then during a one on one meeting he said,
 
@@ -114,7 +119,8 @@ next year at the earliest, let alone a few months after my promotion to senior. 
 I guess I've made it. This was my long term goal.
 
 ### What advice do I have for those seeking a promotion
-This probably should be its own blog post, but I'll give you the basic strategy I used. 
+
+This probably should be its own blog post, but I'll give you the basic strategy I used.
 I'm not sure if this is the way everyone should approach it, but it certainly worked for me.
 
 1. Care about your coworkers
@@ -125,10 +131,11 @@ I'm not sure if this is the way everyone should approach it, but it certainly wo
 6. Take advantage of opportunities that are presented to you
 
 ## What's next?
+
 Well.. the goal now is to become the strongest software engineer I can become. Grow my
 skills, grow my peers, ship solid code, and try to live up to the title bestowed apon me.
 
-I do feel slightly trapped because of this promotion. I don't believe I would be able to 
+I do feel slightly trapped because of this promotion. I don't believe I would be able to
 interview at another company of similar or larger size and be leveled at staff. So my
 goals are to free myself of imposter syndrome yet again and be able to go anywhere.
 

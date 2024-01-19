@@ -3,7 +3,7 @@ title: "The Rebirth of a Hackintosh Dev Environment"
 date: 2020-10-17T23:26:24-05:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["tech","dev"]
+tags: ["tech", "dev"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://www.jeremydwayne.com/posts/the-rebirth-of-a-hackintosh-dev-environment/"
+canonicalURL: "https://www.jeremywinterberg.com/posts/the-rebirth-of-a-hackintosh-dev-environment/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,16 +21,17 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+  image: "<image path/url>" # image path/url
+  alt: "<alt text>" # alt text
+  caption: "<text>" # display caption under cover
+  relative: false # when using page bundles set this to true
+  hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
+  Text: "Suggest Changes" # edit text
+  appendFilePath: true # to append file path to Edit link
 ---
+
 ## My History
 
 A few years back I went all-in on a setting up a Hackintosh pc. I even made a blog post about it, which you can’t find anymore. But, I had everything running perfectly and was productive in my work. Then I gave up on it due to the inconvenience of needing to boot back into windows constantly.
@@ -54,7 +55,7 @@ The reason this history lesson is important is because the terminals between lin
 
 While you can do this terminal work on both mac and linux, many opt for the mac because of aesthetics. They may have other apple devices that can communicate, and a vast selection of macOS applications available to them.
 
-I kind of care about the desktop apps on macos for productivity, but otherwise I’m impartial between macos and linux. When I run linux, I always choose pop!_OS these days, and I highly recommend it as your distro of choice! It’s an Ubuntu based distro maintained by System76, a company that specializes in creating open-sourced systems for the STEM community.
+I kind of care about the desktop apps on macos for productivity, but otherwise I’m impartial between macos and linux. When I run linux, I always choose pop!\_OS these days, and I highly recommend it as your distro of choice! It’s an Ubuntu based distro maintained by System76, a company that specializes in creating open-sourced systems for the STEM community.
 
 Anyways, this is all just an update on what I’m using for my OS these days. I primarily work in Windows through vscode. I use the vim extension and do things in the WSL when I need to. . I’ll do another post in the future going over my actual dev environment in detail.
 

@@ -2,7 +2,7 @@
 title: DSA - Simple Search vs Binary Search
 date: 2024-01-18
 description: DSA - Simple Search vs Binary Search
-canonicalURL: https://www.jeremydwayne.com/posts/dsa-simple-search-vs-binary-search/
+canonicalURL: https://www.jeremywinterberg.com/posts/dsa-simple-search-vs-binary-search/
 tags:
   - post
   - interviewing
@@ -30,6 +30,7 @@ editPost:
   Text: Suggest Changes
   appendFilePath: true
 ---
+
 ## Interview Skills Series Introduction
 
 I've been doing a lot of interview prep and studying for technical interviews. And the one topic that always has myself and thousands of other engineers depressed is data structures and algorithms, aka **DSA**.
@@ -71,6 +72,7 @@ This looks fairly innocent for a small dataset like this, but once you scale thi
 Using Big Oh notation this is **O(n)**, linear. As the number of values in the array increase, the time required to complete is increased as well.
 
 ## Binary Search
+
 Enter Binary Search. Now, there is a caveat to using binary search. The array must already be sorted. Say we have that same array [1,2,3,4,5,6,7,8,9] and we're looking for the index of 8. You could iterate over the entire array to get index 7. Or you can use binary search.
 
 ```ruby
@@ -106,17 +108,19 @@ Walking through this code, we have an array of length 9. So we call binary searc
 ![](assets/Pasted%20image%2020240118153750.png)
 
 ### Whats the difference?
+
 These both found the same answer, index 7. However, they did it in a different number of steps.
 
 Simple Search took 8 steps to find index 7.  
 Binary Search took 2.
 
-Binary search has a run time complexity of **O(log n)**. Admittedly I'm not great at math, so I'm not going to pretend I can explain logarithms. But the general idea that makes an algorithm logarithmic is dividing the set you loop over in half each iteration. 
+Binary search has a run time complexity of **O(log n)**. Admittedly I'm not great at math, so I'm not going to pretend I can explain logarithms. But the general idea that makes an algorithm logarithmic is dividing the set you loop over in half each iteration.
 
 I do this in the calculation of middle `(low+high)/2` and then passing middle+1 or middle-1 in the recursive calls to change the low or high respectively.
 
 ### When would you use Binary Search?
-In any dataset that is sorted. Page numbers, a word dictionary, phone book, etc.. 
+
+In any dataset that is sorted. Page numbers, a word dictionary, phone book, etc..
 
 E.G. If you open a (physical book) dictionary looking for the word **map**, and you open to the B's, you know M comes after B so you keep your finger in the B section and flip further back. You are now at the Q's and have gone too far. so you split the difference between B and Q, and repeat this until you find the M's and eventually the word map.
 
@@ -125,3 +129,4 @@ If you were using simple search, you would scan every single word from A onwards
 ## Conclusion
 
 This was a rather simple algorithm to digest. I obviously already knew what binary search was, but it was nice to refresh memory on it. I will get into more complex algorithms as we go along. I also plan on covering common Design Patterns in software engineering.
+
