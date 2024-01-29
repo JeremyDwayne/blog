@@ -9,7 +9,7 @@ I often get asked about what software or hardware I use, so this page will serve
 ## This Site
 
 - [Hugo](https://gohugo.io/)
-- Hosted on [Vercel](https://vercel.com/)
+- Hosted on [Netlify](https://netlify.com/)
 
 ## Editor + Terminal
 
