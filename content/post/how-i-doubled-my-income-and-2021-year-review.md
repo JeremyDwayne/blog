@@ -4,7 +4,7 @@ date: 2021-12-22T00:38:00-05:00
 tags: ["dev", "career", "life", "update"]
 draft: false
 description: "2021 has been a CRAZY year for me!"
-canonicalURL: "https://www.jeremywinterberg.com/posts/how-i-doubled-my-income-and-2021-year-review/"
+canonicalURL: "https://www.jeremywinterberg.com/post/how-i-doubled-my-income-and-2021-year-review/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

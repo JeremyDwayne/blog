@@ -4,7 +4,7 @@ date: 2023-12-08T21:30:18-06:00
 tags: ["post", "advent-of-code"]
 draft: false
 description: "Advent of Code - Day 1: Trebuchet?!"
-canonicalURL: "https://www.jeremywinterberg.com/posts/advent-of-code-2023-day-1/"
+canonicalURL: "https://www.jeremywinterberg.com/post/advent-of-code-2023-day-1/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

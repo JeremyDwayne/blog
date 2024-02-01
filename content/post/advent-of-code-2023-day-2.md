@@ -4,7 +4,7 @@ date: 2023-12-11T02:51:47-06:00
 tags: ["post"]
 draft: false
 description: "Advent of Code 2023 - Day 2 Cube Conundrum"
-canonicalURL: "https://www.jeremywinterberg.com/posts/advent-of-code-2023-day-2/"
+canonicalURL: "https://www.jeremywinterberg.com/post/advent-of-code-2023-day-2/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

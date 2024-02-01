@@ -2,7 +2,7 @@
 title: DSA - Simple Search vs Binary Search
 date: 2024-01-18
 description: DSA - Simple Search vs Binary Search
-canonicalURL: https://www.jeremywinterberg.com/posts/dsa-simple-search-vs-binary-search/
+canonicalURL: https://www.jeremywinterberg.com/post/dsa-simple-search-vs-binary-search/
 tags:
   - post
   - interviewing

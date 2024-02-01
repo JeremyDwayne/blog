@@ -4,7 +4,7 @@ date: 2020-10-17T23:26:24-05:00
 tags: ["tech", "dev"]
 draft: false
 description: "Desc Text."
-canonicalURL: "https://www.jeremywinterberg.com/posts/the-rebirth-of-a-hackintosh-dev-environment/"
+canonicalURL: "https://www.jeremywinterberg.com/post/the-rebirth-of-a-hackintosh-dev-environment/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

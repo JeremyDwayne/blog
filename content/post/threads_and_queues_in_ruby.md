@@ -4,7 +4,7 @@ date: 2023-01-03T02:12:44-06:00
 tags: ["post"]
 draft: false
 description: "Concurrent processing in Ruby is an exciting topic which I explore in this coding exercise."
-canonicalURL: "https://www.jeremywinterberg.com/posts/threads_and_queues_in_ruby/"
+canonicalURL: "https://www.jeremywinterberg.com/post/threads_and_queues_in_ruby/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

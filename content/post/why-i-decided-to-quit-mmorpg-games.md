@@ -4,7 +4,7 @@ date: 2020-12-24T23:33:36-05:00
 tags: ["gaming"]
 draft: false
 description: "My history of toxic gaming culture and gaming addiction."
-canonicalURL: "https://www.jeremywinterberg.com/posts/why-i-decided-to-quit-mmorpg-games/"
+canonicalURL: "https://www.jeremywinterberg.com/post/why-i-decided-to-quit-mmorpg-games/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

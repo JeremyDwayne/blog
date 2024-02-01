@@ -4,7 +4,7 @@ date: 2023-12-08T20:42:49-06:00
 tags: ["post", "advent-of-code"]
 draft: false
 description: "Advent of Code Introduction"
-canonicalURL: "https://www.jeremywinterberg.com/posts/advent-of-code-2023-introduction/"
+canonicalURL: "https://www.jeremywinterberg.com/post/advent-of-code-2023-introduction/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

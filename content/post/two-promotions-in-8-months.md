@@ -4,7 +4,7 @@ date: 2022-07-07T20:11:46-05:00
 tags: ["post"]
 draft: false
 description: "Time flies when you're busy af. Hard work pays off I guess"
-canonicalURL: "https://www.jeremywinterberg.com/posts/two-promotions-in-8-months/"
+canonicalURL: "https://www.jeremywinterberg.com/post/two-promotions-in-8-months/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text

@@ -15,7 +15,7 @@ tags:
   ]
 draft: false
 description: "Do you have a JANKY work setup like I did? Here's how to configure VS Code to SSH into your remote server you edit files directly on. *gags*"
-canonicalURL: "https://www.jeremywinterberg.com/posts/making-the-best-of-an-old-school-dev-environment/"
+canonicalURL: "https://www.jeremywinterberg.com/post/making-the-best-of-an-old-school-dev-environment/"
 image:
   placement: 1
   focal_point: "Center"

@@ -6,7 +6,7 @@ date: 2023-12-27T22:36:05-05:00
 tags: ["post"]
 draft: false
 description: "What happened to the AOC posts you promised?"
-canonicalURL: "https://www.jeremywinterberg.com/posts/consistency-is-difficult/"
+canonicalURL: "https://www.jeremywinterberg.com/post/consistency-is-difficult/"
 editPost:
   URL: "https://github.com/JeremyDwayne/blog/blob/main/content"
   Text: "Suggest Changes" # edit text
