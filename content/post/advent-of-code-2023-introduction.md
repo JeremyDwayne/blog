@@ -84,9 +84,9 @@ learn more about go. If I have to do an incredibly naive solution to figure it
 out, so be it.
 
 If you're ready to jump into things, the next post will be for day 1 of the
-challenges! [Advent of Code - Day 1](/posts/advent-of-code-2023-day-1)
+challenges! [Advent of Code - Day 1](/post/advent-of-code-2023-day-1)
 
 ## AOC Series
 
-- [Introduction](/posts/advent-of-code-2023-introduction)
-- [Day 1 - Trebuchet?!](/posts/advent-of-code-2023-day-1)
+- [Introduction](/post/advent-of-code-2023-introduction)
+- [Day 1 - Trebuchet?!](/post/advent-of-code-2023-day-1)

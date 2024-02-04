@@ -61,8 +61,6 @@ imaging:
   anchor: Smart
 timeout: 30s
 taxonomies:
-  tag: tags
-  category: categories
   author: authors
 markup:
   _merge: deep
