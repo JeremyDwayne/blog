@@ -189,6 +189,6 @@ Off to a great start! I look forward to solving Day 2 next!
 
 ## AOC Series
 
-- [Introduction](/posts/advent-of-code-2023-introduction)
+- [Introduction](/post/advent-of-code-2023-introduction)
 - [Day 1 - Trebuchet?!](/post/advent-of-code-2023-day-1)
 - [Day 2 - Cube Conundrum](/post/advent-of-code-2023-day-2)
